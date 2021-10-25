@@ -195,3 +195,12 @@ footer{
     cursor: pointer;
 }
 
+.foot-low{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center
+}
+
+.foot-low div{
+    max-width: 25%;
+}
